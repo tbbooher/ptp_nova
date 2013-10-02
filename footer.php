@@ -33,7 +33,7 @@
 			<div class="span4 newsletter">
 				<h3>Newsletter</h3>
 				<p>Subscribe to our monthly newsletter and be the first to know about our news and special deals!</p>
-				<img class="ajax-loader" src="/wp-content/themes/ptp_nova_theme/img/ajax-loader.gif" alt="">
+				<img class="ajax-loader" src="/wp-content/themes/ptp_nova/img/ajax-loader.gif" alt="">
 				<form method="post" id="newsletter-form">
 					<input type="text" placeholder="Enter your E-mail" name="subscribe">
 					<input type="hidden" name="bot"><!-- SPAM protection -->

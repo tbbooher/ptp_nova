@@ -246,7 +246,7 @@ jQuery(document).ready(function($) {
 				$('#contact-form-response').hide().attr('class','alert');
 
 				// post form data using ajax
-				$.post( '/wp-content/themes/ptp_nova_theme/php/contact-form.php', form,
+				$.post( '/wp-content/themes/ptp_nova/php/contact-form.php', form,
 
 					function(response) {
 

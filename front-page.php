@@ -18,27 +18,27 @@
 				<div class="carousel-inner">
 					<!-- Item -->
 					<div class="item">
-						<img alt="" src="/wp-content/themes/ptp_nova_theme/assets/home-variant/940x480-1.jpg">
+						<img alt="" src="/wp-content/themes/ptp_nova/assets/home-variant/940x480-1.jpg">
 					</div>
 					<!-- end Item -->					
 					<!-- Item -->
 					<div class="item">
-						<img alt="" src="/wp-content/themes/ptp_nova_theme/assets/home-variant/940x480-2.jpg">
+						<img alt="" src="/wp-content/themes/ptp_nova/assets/home-variant/940x480-2.jpg">
 					</div>
 					<!-- end Item -->
 					<!-- Item -->
 					<div class="item active">
-						<img alt="" src="/wp-content/themes/ptp_nova_theme/assets/home-variant/940x480-3.jpg">
+						<img alt="" src="/wp-content/themes/ptp_nova/assets/home-variant/940x480-3.jpg">
 					</div>
 					<!-- end Item -->
 					<!-- Item -->
 					<div class="item">
-						<img alt="" src="/wp-content/themes/ptp_nova_theme/assets/home-variant/940x480-4.jpg">
+						<img alt="" src="/wp-content/themes/ptp_nova/assets/home-variant/940x480-4.jpg">
 					</div>
 					<!-- end Item -->
 					<!-- Item -->
 					<div class="item">
-						<img alt="" src="/wp-content/themes/ptp_nova_theme/assets/home-variant/940x480-5.jpg">
+						<img alt="" src="/wp-content/themes/ptp_nova/assets/home-variant/940x480-5.jpg">
 					</div>
 					<!-- end Item -->											
 				</div>
@@ -93,7 +93,7 @@
 			<div class="thumbnail">
 				<!-- image -->
 				<a href="#" title="">
-					<img alt="" src="/wp-content/themes/ptp_nova_theme/assets/homepage/focus_on_kids.jpg">
+					<img alt="" src="/wp-content/themes/ptp_nova/assets/homepage/focus_on_kids.jpg">
 				</a>
 				<!-- description -->
 				<div class="project-description" style="background-color: #EEE;">
@@ -112,7 +112,7 @@
 		<article class="span4 project zoom">
 			<div class="thumbnail">
 				<a href="#" title="">
-					<img alt="" src="/wp-content/themes/ptp_nova_theme/assets/homepage/we_come_to_you.jpg">
+					<img alt="" src="/wp-content/themes/ptp_nova/assets/homepage/we_come_to_you.jpg">
 				</a>
 				<div class="project-description">
 					<b class="name">Area of Coverage</b>
@@ -126,7 +126,7 @@
 		<article class="span4 project link">
 			<div class="thumbnail">
 				<a href="#" title="">
-					<img alt="" src="/wp-content/themes/ptp_nova_theme/assets/homepage/make_kids_stronger.jpg">
+					<img alt="" src="/wp-content/themes/ptp_nova/assets/homepage/make_kids_stronger.jpg">
 				</a>
 				<div class="project-description">
 					<b class="name">Services</b>
